@@ -10,15 +10,15 @@ I am currently missing the below marketing metadata to be able to move forward
 ### Main url
 ```js
   {
-    path: "cow-top-hundred", // choose your frontend path
-    title: "COW", // choose your title  see in the below image next to the
-    subtitle: "Show that you are top 100 cow trader.",
-    logoUrl: "https://cow.fi/images/og-meta-cowprotocol.png",
-    onboardingDescription: "Mint this badge to show that you are top 100 cow trader",
-    ctaLabel: "Go to cow platform",
-    ctaUrl: "https://cow.fi/", // provide a link to your users. If you does not have a link you can add "" this will redirect to the sismo explorer.
-    congratulationTexts: ["Congratulations mooooo"],
-  },
+    path: "cowswap-top-hundred",
+    title: "CoW Swap",
+    subtitle: "Shows that you are a special CoW, you are within the top 100 CoW Swap traders!",
+    logoUrl: "https://cow.fi/images/hero-image.svg",
+    onboardingDescription: "Mint this badge to show that you are within the top 100 CoW Swap traders",
+    ctaLabel: "What are you waiting for? Trade today at swap.cow.fi",
+    ctaUrl: "https://cow.fi/",
+    congratulationTexts: ["Moooooo-d work CoW],
+   },
 ```
 
 ![badge main](local.png)

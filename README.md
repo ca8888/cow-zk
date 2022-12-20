@@ -43,7 +43,7 @@ If the user want more details, one can press on the badge and the bellow image w
         shortDescription: "According to aggregate 2022 volumes, you're a top 100 CoW trader",
         // provide a technical description of your eligibility criterias
         specification:
-          "According to aggregate 2022 volumes, you've traded more than $xxx",
+          "According to aggregate 2022 volumes, you've traded more than $21,328,944",
       },
       links: [
         {
@@ -69,7 +69,7 @@ If the user want more details, one can press on the badge and the bellow image w
         shortDescription: "According to aggregate 2022 volumes, you're a top 1000 CoW trader",
         // provide a technical description of your eligibility criterias
         specification:
-          "According to aggregate 2022 volumes, you've traded more than $xxx",
+          "According to aggregate 2022 volumes, you've traded more than $1,732,642",
       },
       links: [
         {
@@ -95,7 +95,7 @@ If the user want more details, one can press on the badge and the bellow image w
         shortDescription: "According to aggregate 2022 volumes, you're a top 5000 CoW trader",
         // provide a technical description of your eligibility criterias
         specification:
-          "According to aggregate 2022 volumes, you've traded more than $xxx",
+          "According to aggregate 2022 volumes, you've traded more than $160,321",
       },
       links: [
         {
@@ -106,8 +106,8 @@ If the user want more details, one can press on the badge and the bellow image w
       ],
     },
     {
-      name: "cow top 15000", // add a name to your badge
-      description: "top 15000 cow traders", // describe it !
+      name: "Top 15000 CoW Trader", // add a name to your badge
+      description: "Top 15000 CoW Trader", // describe it !
       image: "cow_top_15000.svg", // this is the svg path can be create easily from here https://factory.sismo.io/svg-editor
       publicContacts: [
         // give us a way to join you :)
@@ -118,10 +118,10 @@ If the user want more details, one can press on the badge and the bellow image w
       ],
       eligibility: {
         // provide a short description of your eligibility criterias
-        shortDescription: "Be a top 15000 cow trader",
+        shortDescription: "According to aggregate 2022 volumes, you're a top 15000 CoW trader",
         // provide a technical description of your eligibility criterias
         specification:
-          "You should have prevously create trades in the cow platform.",
+          "According to aggregate 2022 volumes, you've traded more than $13,167",
       },
       links: [
         {

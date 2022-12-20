@@ -12,7 +12,7 @@ I am currently missing the below marketing metadata to be able to move forward
   {
     path: "CoW Swap Trader Badges",
     title: "CoW Swap",
-    subtitle: "Shows that you are a special CoW, claim your trader badge!",
+    subtitle: "Show that you are a special CoW, claim your trader badge!",
     logoUrl: "https://cow.fi/images/hero-image.svg",
     onboardingDescription: "Mint this badge to show that you are a unique CoW Swap trader",
     ctaLabel: "What are you waiting for? Trade today at swap.cow.fi",
@@ -54,8 +54,8 @@ If the user want more details, one can press on the badge and the bellow image w
       ],
     },
     {
-      name: "cow top 1000", // add a name to your badge
-      description: "top 1000 cow traders", // describe it !
+      name: "Top 1000 CoW Trader", // add a name to your badge
+      description: "Top 1000 CoW Trader", // describe it !
       image: "cow_top_1000.svg", // this is the svg path can be create easily from here https://factory.sismo.io/svg-editor
       publicContacts: [
         // give us a way to join you :)
@@ -66,10 +66,10 @@ If the user want more details, one can press on the badge and the bellow image w
       ],
       eligibility: {
         // provide a short description of your eligibility criterias
-        shortDescription: "Be a top 1000 cow trader",
+        shortDescription: "According to aggregate 2022 volumes, you're a top 1000 CoW trader",
         // provide a technical description of your eligibility criterias
         specification:
-          "You should have prevously create trades in the cow platform.",
+          "According to aggregate 2022 volumes, you've traded more than $xxx",
       },
       links: [
         {
@@ -80,8 +80,8 @@ If the user want more details, one can press on the badge and the bellow image w
       ],
     },
     {
-      name: "cow top 5000", // add a name to your badge
-      description: "top 5000 cow traders", // describe it !
+      name: "Top 5000 CoW Trader", // add a name to your badge
+      description: "Top 5000 CoW Trader", // describe it !
       image: "cow_top_5000.svg", // this is the svg path can be create easily from here https://factory.sismo.io/svg-editor
       publicContacts: [
         // give us a way to join you :)
@@ -92,10 +92,10 @@ If the user want more details, one can press on the badge and the bellow image w
       ],
       eligibility: {
         // provide a short description of your eligibility criterias
-        shortDescription: "Be a top 5000 cow trader",
+        shortDescription: "According to aggregate 2022 volumes, you're a top 5000 CoW trader",
         // provide a technical description of your eligibility criterias
         specification:
-          "You should have prevously create trades in the cow platform.",
+          "According to aggregate 2022 volumes, you've traded more than $xxx",
       },
       links: [
         {

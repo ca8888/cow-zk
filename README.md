@@ -23,7 +23,7 @@ I am currently missing the below marketing metadata to be able to move forward
 
 ![badge main](local.png)
 
-### Badge url
+### Badge Meta data
 If the user want more details, one can press on the badge and the bellow image would appear. Here one can find the data need to change
 
 ```js
@@ -160,6 +160,24 @@ If the user want more details, one can press on the badge and the bellow image w
 ```
 
 ![after-pressing-on-badge.png](after-pressing-on-badge.png)
+
+### How to do future changes
+1. fork [sismo repo](https://github.com/sismo-core/sismo-hub)
+2. clone and install locally
+
+      1. ```
+      bash  git clone git@github.com:<your_github_username>/sismo-hub.git
+      cd sismo-hub/
+      yarn 
+      ```
+3. create a branch and work on it
+4.  apply your chnages (exmaple replacing badges)
+    1.  easyest way would to go to ```static/badges/<your badge>.svg and just replace the existing one with the same name
+    2.  if it not the same name  you have to change it ass well in the badges meta data folder: ```badges-metadata/playground/hydra-s1-```
+5. Add your changes and commit them
+6. You will then see on your forked repository the following message, you can click on "Compare and pull request" to begin creating your pull request
+7. create the pr!
+
 
 
 ## useful links:
